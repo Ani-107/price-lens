@@ -1,0 +1,7 @@
+crewai
+langchain-openai
+python-dotenv
+fastapi
+uvicorn[standard]
+
+

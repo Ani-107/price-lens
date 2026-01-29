@@ -1,0 +1,2 @@
+Interviewer: How much do you pay for pricing tools? 
+ Founder: We pay /month but it is too cheap for what we get. We would pay /month if it integrated with our CRM.
